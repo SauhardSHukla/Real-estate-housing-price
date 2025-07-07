@@ -1,4 +1,5 @@
 CustomerID,Gender,Age,Annual Income (k$),Day,Hour,Arrival_Count,Payment_Method,Item_Purchased,Membership_Status,Duration_min,Entry time,Exit time,Avg_Item_Value,Total Spending
+
 1,Male,19,15,Sunday,12,30,UPI,103,Gold,140,10:42:AM,01:02:PM,200,20600.0
 2,Male,21,15,Wednesday,16,18,Card,111,Regular,122,04:15:PM,06:17:PM,88,9768.0
 3,other,20,16,Monday,18,20,UPI,101,Gold,110,01:30:PM,03:20:PM,87,8787.0
